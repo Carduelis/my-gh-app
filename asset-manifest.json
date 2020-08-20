@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-gh-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/my-gh-app/static/js/main.e1c76be8.chunk.js",
+    "main.js.map": "/my-gh-app/static/js/main.e1c76be8.chunk.js.map",
+    "runtime-main.js": "/my-gh-app/static/js/runtime-main.45502d59.js",
+    "runtime-main.js.map": "/my-gh-app/static/js/runtime-main.45502d59.js.map",
+    "static/js/2.85e1dac1.chunk.js": "/my-gh-app/static/js/2.85e1dac1.chunk.js",
+    "static/js/2.85e1dac1.chunk.js.map": "/my-gh-app/static/js/2.85e1dac1.chunk.js.map",
+    "index.html": "/my-gh-app/index.html",
+    "precache-manifest.de5408d382206b083386ac0850889600.js": "/my-gh-app/precache-manifest.de5408d382206b083386ac0850889600.js",
+    "service-worker.js": "/my-gh-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/my-gh-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.85e1dac1.chunk.js.LICENSE.txt": "/my-gh-app/static/js/2.85e1dac1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-gh-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45502d59.js",
+    "static/js/2.85e1dac1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e1c76be8.chunk.js"
+  ]
+}
